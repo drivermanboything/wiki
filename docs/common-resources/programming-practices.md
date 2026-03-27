@@ -10,5 +10,5 @@ Despite being an Electrical Engineering club, most of our projects involve progr
 
 - [learncpp](https://www.learncpp.com/) - Text-based introduction to C++
 - [The Cherno C++ Playlist](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&si=pLsf1zulFX3jKtrf) - Video-based introduction to C++
-- [Low Level Video](https://www.youtube.com/watch?v=GWYhtksrmhE) - Video on best practices for embedded systems programming in C
+- [Low Level NASA Coding](https://www.youtube.com/watch?v=GWYhtksrmhE) - Video on best practices for embedded systems programming in C
 - [Randomizer](https://github.com/Eric-Butcher/Randomizer) - GitHub repository that shows C++ features as well as CMake and GitHub Actions
