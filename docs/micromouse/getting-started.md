@@ -30,7 +30,9 @@ Your MicroMouse proposal should include:
 - A Hardware Plan
     - Detailed explanation of how your hardware will work. This should demonstrate that you understand the electrical requirements of all the individual components and have a solid plan for how they will all interact with each other. Creating a CAD model of your robot is recommended.
 - A Software Plan
-    - Detailed explanation of how your software will work. This should include the programming language(s) you will be us
+    - Detailed explanation of how your software will work. This should include the programming language(s) you will be using, any libraries, what IDE(s) you will be working with, your approach for testing your software, and how you will be using the inputs from your hardware to complete your task.
+- A list of team members and their responsibilities.
+    - Each team member should include a one paragraph description of their responsibilities on the MicroMouse team.
 - A timeline for your project with milestones.
     - A list of important dates and what you plan to accomplish by each date.
 
@@ -49,9 +51,8 @@ If you plan for your MicroMouse to drive diagonally between cells, it will need 
 
 The cells are 5 cm tall, but there is no height limit for your robot.
 
-## Bonus Recourses
+## Bonus Resources
 
-Extra recourses that might assist you.
+Extra resources that might assist you.
 
 - [UCLA MicroMouse Lectures](https://youtube.com/playlist?list=PLAWsHzw_h0iiPIaGyXAr44G0XfHfyjOe7&si=TqWa_xPn7eOs0glw) - Great overviews on different areas of the project.
-
