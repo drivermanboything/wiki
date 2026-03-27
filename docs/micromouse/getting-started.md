@@ -53,5 +53,5 @@ The cells are 5 cm tall, but there is no height limit for your robot.
 
 Extra recourses that might assist you.
 
-- [UCLA MicroMouse Lectures](https://youtube.com/playlist?list=PLAWsHzw_h0iiPIaGyXAr44G0XfHfyjOe7&si=TqWa_xPn7eOs0glw) - Great overviews on different areas of the project
+- [UCLA MicroMouse Lectures](https://youtube.com/playlist?list=PLAWsHzw_h0iiPIaGyXAr44G0XfHfyjOe7&si=TqWa_xPn7eOs0glw) - Great overviews on different areas of the project.
 
